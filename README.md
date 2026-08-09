@@ -42,25 +42,34 @@ Currently focused on:
 
 ---
 
-## 📌 Featured Projects
+<details>
+<summary><b>📌 Featured Projects</b></summary>
 
-### Brutsplit
+<br>
+
+### 💸 Brutsplit
 
 AI-powered expense splitting platform inspired by Splitwise with intelligent bill parsing, group expense management, and automated settlement workflows.
 
-Tech: React, Node.js, Express, MongoDB, Clerk Auth, Convex
+**Tech:** React, Node.js, Express, MongoDB, Clerk Auth, Convex
 
-### BananaBrush
+---
+
+### 🎨 BananaBrush
 
 AI-powered text-to-image SaaS platform with secure authentication, credit-based generation, payment integration, and cloud image management.
 
-Tech: MERN Stack, Razorpay, JWT Authentication, AI APIs
+**Tech:** MERN Stack, Razorpay, JWT Authentication, AI APIs
 
-### Reverie
+---
+
+### 📚 Reverie
 
 AI-powered creative writing and storytelling platform focused on generating and refining narratives through modern language models and interactive workflows.
 
-Tech: React, TypeScript, AI APIs, Modern Web Stack
+**Tech:** React, TypeScript, AI APIs, Modern Web Stack
+
+</details>
 
 ---
 
