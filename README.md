@@ -1,10 +1,12 @@
 # Hi, I'm Nachiket 👋
 
 ### Competitive Programmer • Backend Engineer • First-Principles Learner
+> "First solve the problem. Then write the code."
 
 I'm a B.Tech student at IIT (ISM) Dhanbad with a strong interest in algorithms, backend systems, mathematics, and computer science fundamentals.
 
 Currently focused on:
+
 * Competitive Programming
 * Backend Development
 * System Design Fundamentals
@@ -14,41 +16,29 @@ Currently focused on:
 
 ## 🏆 Competitive Programming
 
-* ⭐ **CodeChef 5★** (Rating: 2001)
-* 🔷 **Codeforces Expert** (Rating: 1610)
-* 🟡 **LeetCode** Rating: 1760
-* 🏅 **Meta Hacker Cup 2025** — Round 2 (Global Rank 703 / 15,000+)
-* 🏅 **IICPC Prelims** — Rank 464 / 20,000+ (Top 2.2%)
-* 🏕️ **ICPC Camp** — Top 50 Teams
-* 🥇 **Chem-e-Code, Concetto '24** — 1st Place among 300+ teams
+* ⭐️ CodeChef 5★ (Rating: 2001)
+* 🔷 Codeforces Expert (Rating: 1610)
+* 🟡 LeetCode Rating: 1760
+* 🏅 Meta Hacker Cup 2025 — Round 2 (Global Rank 703 / 15,000+)
+* 🏅 IICPC Prelims — Rank 464 / 20,000+ (Top 2.2%)
+* 🏕 ICPC Camp — Top 50 Teams
+* 🥇 Chem-e-Code, Concetto '24 — 1st Place among 300+ teams
 
 ---
 
 ## 🚀 Tech Stack
 
-### Languages
-
-C • C++ • Python • JavaScript • TypeScript
-
-### Backend
-
-Node.js • Express.js • REST APIs • JWT Authentication
-
-### Frontend
-
-React • Next.js • Redux • Tailwind CSS • Framer Motion
-
-### Databases
-
-MongoDB • MySQL • Firebase • Supabase
-
-### AI / Data
-
-NumPy • Pandas • Matplotlib • Hugging Face Transformers
-
-### Tools
-
-Git • GitHub • Postman • VS Code • Vite • Jupyter Notebook
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,nodejs,express,react,nextjs,redux,tailwind,mongodb,mysql,firebase,supabase,git,github,vscode,postman,vite&perline=10" />
+</p>
+<!-- <p>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT_Authentication-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface" />
+</p> -->
 
 ---
 
@@ -58,19 +48,19 @@ Git • GitHub • Postman • VS Code • Vite • Jupyter Notebook
 
 AI-powered expense splitting platform inspired by Splitwise with intelligent bill parsing, group expense management, and automated settlement workflows.
 
-**Tech:** React, Node.js, Express, MongoDB, Clerk Auth, Convex
+Tech: React, Node.js, Express, MongoDB, Clerk Auth, Convex
 
 ### BananaBrush
 
 AI-powered text-to-image SaaS platform with secure authentication, credit-based generation, payment integration, and cloud image management.
 
-**Tech:** MERN Stack, Razorpay, JWT Authentication, AI APIs
+Tech: MERN Stack, Razorpay, JWT Authentication, AI APIs
 
 ### Reverie
 
 AI-powered creative writing and storytelling platform focused on generating and refining narratives through modern language models and interactive workflows.
 
-**Tech:** React, TypeScript, AI APIs, Modern Web Stack
+Tech: React, TypeScript, AI APIs, Modern Web Stack
 
 ---
 
@@ -85,7 +75,11 @@ AI-powered creative writing and storytelling platform focused on generating and 
 
 ---
 
-> "First solve the problem. Then write the code."
+
+<details>
+<summary><b>📖 My Philosophy on Building Software</b></summary>
+
+<br>
 
 I enjoy understanding how things work beneath the abstraction layers. Whether it's a machine learning model, a database engine, a networking protocol, or a search algorithm, I prefer studying the underlying ideas, reading documentation and papers, and building implementations from scratch rather than treating technologies as black boxes.
 
@@ -93,6 +87,7 @@ What attracts me to computing is that while frameworks, libraries, and trends ev
 
 I believe mastery comes from understanding fundamentals deeply. Technologies can be learned when needed, but a strong foundation in problem-solving and first-principles thinking remains valuable across every domain of software engineering.
 
+</details>
 
 <!--
 **Dumboiiiy/Dumboiiiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
