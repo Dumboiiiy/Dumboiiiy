@@ -3,14 +3,8 @@
 ### Competitive Programmer • Backend Engineer • First-Principles Learner
 > "First solve the problem. Then write the code."
 
-I'm a B.Tech student at IIT (ISM) Dhanbad with a strong interest in algorithms, backend systems, mathematics, and computer science fundamentals.
-
-Currently focused on:
-
-* Competitive Programming
-* Backend Development
-* System Design Fundamentals
-* Generative AI and Agentic AI
+I'm a B.Tech student at IIT (ISM) Dhanbad with a strong interest in algorithms, backend engineering and system design, mathematics, and computer science fundamentals.
+##### Competitive Programming • Backend Development • System Design Fundamentals • Generative AI and Agentic AI
 
 ---
 
@@ -23,6 +17,17 @@ Currently focused on:
 * 🏅 IICPC Prelims — Rank 464 / 20,000+ (Top 2.2%)
 * 🏕 ICPC Camp — Top 50 Teams
 * 🥇 Chem-e-Code, Concetto '24 — 1st Place among 300+ teams
+
+---
+
+## 🌐 Profiles
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Dumboiiiy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nachiket-rahul-amrute-19671b285/)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-Expert-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/amrutenac4/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5★-brown?style=for-the-badge)](https://www.codechef.com/users/dumboiiiy/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1760-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Dumboiiiy/)
 
 ---
 
@@ -70,17 +75,6 @@ AI-powered creative writing and storytelling platform focused on generating and 
 **Tech:** React, TypeScript, AI APIs, Modern Web Stack
 
 </details>
-
----
-
-## 🌐 Profiles
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Dumboiiiy/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nachiket-rahul-amrute-19671b285/)
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-Expert-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/amrutenac4/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5★-brown?style=for-the-badge)](https://www.codechef.com/users/dumboiiiy/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1760-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Dumboiiiy/)
 
 ---
 
